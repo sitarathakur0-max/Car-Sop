@@ -29,7 +29,7 @@ const CookieConsent = () => {
         >
           <div className="container mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
             <p className="text-sm text-gray-300">
-              🍪 We use cookies to enhance your experience. By continuing, you agree to our cookie policy.
+              🍪 We use cookies to enhance your experience. By continuing, you agree to our cookie policy
             </p>
             <div className="flex gap-3">
               <button

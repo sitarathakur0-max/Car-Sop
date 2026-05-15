@@ -63,7 +63,7 @@ const ChatSupport = () => {
                 placeholder="Type your message..."
                 className="flex-1 bg-gray-800 border border-gray-700 rounded-l-lg px-3 py-2 text-sm focus:outline-none focus:border-amber-400 text-white"
               />
-              <button onClick={sendMessage} className="bg-amber-500 text-black px-3 rounded-r-lg">Send</button>
+              <button onClick={sendMessage} className="bg-amber-500 text-black px-3 rounded-r-lg">Send </button>
             </div>
           </motion.div>
         )}
