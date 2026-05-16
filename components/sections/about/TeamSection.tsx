@@ -19,7 +19,7 @@ const teamMembers = [
     name: 'Michael Chen',
     role: 'Head Mechanic',
     image: '/images/Head.jpg',
-    bio: 'Certified master technician'
+    bio: 'Certified master technician' 
   },
   {
     name: 'Emily Rodriguez',

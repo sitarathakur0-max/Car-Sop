@@ -28,7 +28,7 @@
 //               >
 //                 <source src="/videos/about drive.mp4" type="video/mp4" />
 //               </video>
-              
+
 //               {/* Play Button Overlay (Optional) */}
 //               <button 
 //                 onClick={() => setIsPlaying(!isPlaying)}
@@ -38,15 +38,15 @@
 //                   <path d="M8 5v14l11-7z" />
 //                 </svg>
 //               </button>
-              
+
 //               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
 //             </div>
-            
+
 //             {/* Video Badge */}
 //             <div className="absolute top-4 left-4 bg-black/60 backdrop-blur-sm px-3 py-1 rounded-full text-xs text-amber-400">
 //               🎬 Watch Our Story
 //             </div>
-            
+
 //             {/* Decorative Border */}
 //             <div className="absolute -bottom-4 -right-4 w-32 h-32 border-2 border-amber-500/30 rounded-xl -z-10"></div>
 //           </motion.div>
@@ -65,19 +65,19 @@
 //               </h2>
 //               <div className="w-20 h-1 bg-gradient-to-r from-amber-500 to-cyan-500 rounded-full"></div>
 //             </div>
-            
+
 //             <p className="text-gray-300 leading-relaxed">
 //               Founded in 2018, LuxeAuto began with a simple mission: to provide car enthusiasts 
 //               with access to the world's finest luxury vehicles. What started as a small showroom 
 //               has grown into a premier destination for exotic car sales, service, and customization.
 //             </p>
-            
+
 //             <p className="text-gray-300 leading-relaxed">
 //               Our team brings together decades of experience in the automotive industry, 
 //               combining passion with expertise to deliver an unparalleled customer experience. 
 //               We believe that buying a luxury car should be as extraordinary as the vehicle itself.
 //             </p>
-            
+
 //             <div className="grid grid-cols-2 gap-4 pt-4">
 //               <div className="flex items-center gap-3">
 //                 <div className="w-10 h-10 rounded-full bg-amber-500/20 flex items-center justify-center">
@@ -163,19 +163,19 @@ const CompanyStory = () => {
               </h2>
               <div className="w-20 h-1 bg-gradient-to-r from-amber-500 to-cyan-500 rounded-full"></div>
             </div>
-            
+
             <p className="text-gray-300 leading-relaxed">
-              Founded in 2018, LuxeAuto began with a simple mission: to provide car enthusiasts 
-              with access to the world's finest luxury vehicles. What started as a small showroom 
+              Founded in 2018, LuxeAuto began with a simple mission: to provide car enthusiasts
+              with access to the world's finest luxury vehicles. What started as a small showroom
               has grown into a premier destination for exotic car sales, service, and customization.
             </p>
-            
+
             <p className="text-gray-300 leading-relaxed">
-              Our team brings together decades of experience in the automotive industry, 
-              combining passion with expertise to deliver an unparalleled customer experience. 
+              Our team brings together decades of experience in the automotive industry,
+              combining passion with expertise to deliver an unparalleled customer experience.
               We believe that buying a luxury car should be as extraordinary as the vehicle itself.
             </p>
-            
+
             <div className="grid grid-cols-2 gap-4 pt-4">
               <div className="flex items-center gap-3">
                 <div className="w-10 h-10 rounded-full bg-amber-500/20 flex items-center justify-center">
